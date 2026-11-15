@@ -1,0 +1,55 @@
+=== IT SUPPORT HEALTH CHECK ===
+Date: 11/15/2026 18:14:09
+
+=== System ===
+
+CsName WindowsProductName    OsVersion 
+------ ------------------    --------- 
+MAINPC Windows 10 Enterprise 10.0.19045
+
+
+
+
+=== NETWORK ===
+
+
+InterfaceAlias       : Ethernet
+InterfaceIndex       : 6
+InterfaceDescription : Realtek PCIe GbE Family Controller
+NetProfile.Name      : SKYNET
+IPv4Address          : 192.168.1.182
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 192.168.1.1
+DNSServer            : 192.168.1.1
+
+InterfaceAlias       : Mullvad
+InterfaceIndex       : 50
+InterfaceDescription : Mullvad Tunnel
+NetProfile.Name      : Mullvad
+IPv4Address          : 10.149.159.10
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 10.64.0.1
+DNSServer            : 10.64.0.1
+
+
+
+
+
+=== CONNECTIVITY ===
+PASS - Ping Successfull
+
+=== STORAGE ===
+C: - 903.1 GB free of 1862.4 GB
+D: - 232.8 GB free of 232.9 GB
+E: - 399.2 GB free of 1863 GB
+G: - 296.3 GB free of 463.9 GB
+H: - 110.8 GB free of 111.8 GB
+
+=== WINDOWS UPDATE ===
+
+DisplayName     Status
+-----------     ------
+Windows Update Stopped
+
+
+
