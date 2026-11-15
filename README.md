@@ -59,7 +59,8 @@ Developed a reusable diagnostic script that consolidates multiple Windows troubl
 ## Video Demonstration
 
 YouTube walkthrough: 
-https://youtu.be/kjbaEnWJ6oI
+https://youtu.be/JLPpkb9oJMM
+
 
 ## Author
 
